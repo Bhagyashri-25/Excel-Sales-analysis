@@ -37,7 +37,7 @@ The Excel workbook includes **three key sheets**:
 
 ## 📷 Dashboard Preview
 
-![Blinkit Excel Dashboard](./75da17c2-f97d-4b91-9fcc-d016181e2e9a.png)
+![Blinkit Excel Dashboard](image.png)
 
 ---
 
